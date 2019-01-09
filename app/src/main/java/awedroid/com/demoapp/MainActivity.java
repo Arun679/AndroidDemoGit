@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         //Hello From Server
+        //Server
     }
 
     @Override
