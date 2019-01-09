@@ -26,8 +26,7 @@ public class MainActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
-
-        //hello
+        //Hello From Server
     }
 
     @Override
